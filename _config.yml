@@ -1,0 +1,28 @@
+name: Lion Crest
+favicon: null
+layout_spectrum: 0.060323300771415234
+typography_spectrum: 0.4149091935250908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5161986378952861
+  lightness: 0.447790355887264
+  saturation: 0.508705599932
+  rhythmicContrast: 0.5544445419218391
+purpose: []
