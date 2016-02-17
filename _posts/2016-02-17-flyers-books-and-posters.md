@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T10:23:36.272Z'
-dateModified: '2016-02-17T10:23:15.785Z'
+datePublished: '2016-02-17T10:30:56.640Z'
+dateModified: '2016-02-17T10:30:53.777Z'
 title: 'Flyers, Books and Posters'
 author: []
 sourcePath: _posts/2016-02-17-flyers-books-and-posters.md
