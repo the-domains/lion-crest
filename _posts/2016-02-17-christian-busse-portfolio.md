@@ -6,24 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: a showcase of some of the work that I have been doing
-datePublished: '2016-02-17T10:20:46.581Z'
-dateModified: '2016-02-17T10:12:02.812Z'
+datePublished: '2016-02-17T10:45:14.813Z'
+dateModified: '2016-02-17T10:45:12.882Z'
 title: Christian Busse Portfolio
 author: []
+sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
-published: true
 url: christian-busse-portfolio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86c27f7-1250-41c7-bc6a-f27f696c75ff.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c576029-52c6-4f75-9c28-f9fad72ee177.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a078e6-ab8e-465c-8eac-1518ef9759b2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d93c1cd-da96-49c2-a507-88372f0f2271.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cb79378-4c3a-4225-b70f-8e2673cd99c7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74abc16904550242862ccfd026e54f793b6a86c5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d3c1f7e17a81f8a24e768078be65c022bb70047.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/73b812339421db5eb9d0c093dc0d7b4fdf175e8c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a5ad989f96a2bb136925e7ebc2c844ec6db833.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92740774749efb658c2095d5b15527717de4211f.jpg)
