@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lion Crest]]></title>
+        <description><![CDATA[Lion Crest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 10:21:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christian Busse Portfolio]]></title>
+            <description><![CDATA[<article><h1>Christian Busse Portfolio</h1><p>a showcase of some of the work that I have been doing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74abc16904550242862ccfd026e54f793b6a86c5.jpg"></article>]]></description>
+            <link>undefinedchristian-busse-portfolio/index.html</link>
+            <guid isPermaLink="false">3b8a7eff-2a4b-457d-b66a-b77bf9489f04</guid>
+            <pubDate>Wed, 17 Feb 2016 10:20:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
