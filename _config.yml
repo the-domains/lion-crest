@@ -1,4 +1,4 @@
-name: Lion Crest
+name: Christian Busse
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.61055
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5161986378952861
-  lightness: 0.447790355887264
-  saturation: 0.508705599932
-  rhythmicContrast: 0.5544445419218391
+    - '#f7633e'
+    - '#ffffff'
+    - '#783e26'
+    - '#cad93e'
+    - '#1b1d04'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
