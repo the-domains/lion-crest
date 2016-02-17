@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: a showcase of some of the work that I have been doing
-datePublished: '2016-02-17T13:38:46.146Z'
-dateModified: '2016-02-17T13:38:45.409Z'
+datePublished: '2016-02-17T14:07:28.111Z'
+dateModified: '2016-02-17T14:01:03.607Z'
 title: Lion Crest
 author: []
 sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
