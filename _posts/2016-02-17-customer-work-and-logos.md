@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T12:28:58.040Z'
-dateModified: '2016-02-17T12:28:43.417Z'
+datePublished: '2016-02-17T12:36:02.915Z'
+dateModified: '2016-02-17T12:36:00.702Z'
 title: Customer Work and Logos
 author: []
 sourcePath: _posts/2016-02-17-customer-work-and-logos.md
