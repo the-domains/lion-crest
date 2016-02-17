@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T13:20:28.760Z'
-dateModified: '2016-02-17T13:20:25.775Z'
+datePublished: '2016-02-17T15:07:43.747Z'
+dateModified: '2016-02-17T15:07:41.734Z'
 title: 'Flyers, Books and Posters'
 author: []
 sourcePath: _posts/2016-02-17-flyers-books-and-posters.md
@@ -23,6 +23,8 @@ _type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10a41e9287310035a01b370a3a4c101b586f408e.jpg)
+
+Alle Arbeiten die ich erledige sind mit Akribischer Detailgenauigkeit durchgeführt.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/828f96202c16e8bbde531793f13f81629d94dec2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0c304922bd9ae1ec93eaa9498912021320cf3dd.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cc0c4cc6fb3493e3f6208e552b66b4af80be480.jpg)
