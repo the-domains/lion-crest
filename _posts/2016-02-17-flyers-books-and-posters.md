@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T12:29:24.822Z'
-dateModified: '2016-02-17T12:29:21.435Z'
+datePublished: '2016-02-17T12:35:46.763Z'
+dateModified: '2016-02-17T12:35:44.387Z'
 title: 'Flyers, Books and Posters'
 author: []
 sourcePath: _posts/2016-02-17-flyers-books-and-posters.md
