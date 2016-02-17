@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: a showcase of some of the work that I have been doing
-datePublished: '2016-02-17T13:06:57.856Z'
-dateModified: '2016-02-17T13:06:55.439Z'
+datePublished: '2016-02-17T13:08:46.214Z'
+dateModified: '2016-02-17T13:07:43.056Z'
 title: Christian Busse Portfolio
 author: []
 sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
