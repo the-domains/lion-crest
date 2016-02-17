@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T10:43:34.847Z'
-dateModified: '2016-02-17T10:37:35.202Z'
+datePublished: '2016-02-17T12:28:58.040Z'
+dateModified: '2016-02-17T12:28:43.417Z'
 title: Customer Work and Logos
 author: []
+sourcePath: _posts/2016-02-17-customer-work-and-logos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-customer-work-and-logos.md
-published: true
 url: customer-work-and-logos/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1fb0b9-f1f3-479a-99f3-0ae090fe08a3.png)
