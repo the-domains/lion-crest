@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T10:43:27.867Z'
-dateModified: '2016-02-17T10:37:38.133Z'
+datePublished: '2016-02-17T12:29:24.822Z'
+dateModified: '2016-02-17T12:29:21.435Z'
 title: 'Flyers, Books and Posters'
 author: []
 sourcePath: _posts/2016-02-17-flyers-books-and-posters.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: flyers-books-and-posters/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39448745446a0dfc6548ba61ae2a4b5d16449a88.png)
