@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: a showcase of some of the work that I have been doing
-datePublished: '2016-02-17T10:45:14.813Z'
-dateModified: '2016-02-17T10:45:12.882Z'
+datePublished: '2016-02-17T12:28:54.005Z'
+dateModified: '2016-02-17T12:28:50.370Z'
 title: Christian Busse Portfolio
 author: []
 sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
