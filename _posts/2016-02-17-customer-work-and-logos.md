@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Works done predominantly in Photoshop and Illustrator
-datePublished: '2016-02-17T13:19:45.426Z'
-dateModified: '2016-02-17T13:19:42.675Z'
+datePublished: '2016-02-17T13:56:53.714Z'
+dateModified: '2016-02-17T13:56:49.447Z'
 title: Customer Work and Logos
 author: []
 sourcePath: _posts/2016-02-17-customer-work-and-logos.md
