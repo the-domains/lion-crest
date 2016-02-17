@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: a showcase of some of the work that I have been doing
-datePublished: '2016-02-17T14:07:28.111Z'
-dateModified: '2016-02-17T14:01:03.607Z'
+datePublished: '2016-02-17T14:44:11.624Z'
+dateModified: '2016-02-17T14:44:09.555Z'
 title: Lion Crest
 author: []
 sourcePath: _posts/2016-02-17-christian-busse-portfolio.md
@@ -32,9 +32,9 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c1b8ab6dce632e6db1804892cde21de176e18ee.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/40693480754705924b35cb534ebeba8da6c07e2c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b6c07614717c258ce92befdabeb3d904c001bc9.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a08059cb88fb75055b6c124815bc982aed2b8f.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0d02995334ba4a27bf672996423c35367a0d1d.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eaf905247f8784cca85502f5c0bbea83e1070f4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa276f1-b021-4607-8aaa-8cfa543327ef.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c4dafad-5f54-4024-b539-d1604840ceb6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebe510b9-9e66-4062-a90f-6e26ac56a414.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb86e9cf7140039cf8794a1d8cc9b0c2f0063a2e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e670d6e16c360cc723ece1f37b086f3b398e918.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/217cf8ec771d5deb8f7c1184299f06d8a53702d7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4abdd712673ddec63540bb2654ecbaab3232fa2.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8d6c36c2f3e702112df5b29899c2a1ce8444d8c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9388e9f33e99ecac18ac1a1a689c04b1a25d2f61.jpg)
